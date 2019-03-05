@@ -1,4 +1,4 @@
-The souce codes are based on matconvnet
+The souce codes are based on matconvnet.
 
 Creat a new directory \data\models
 Download the pretrained net from 
