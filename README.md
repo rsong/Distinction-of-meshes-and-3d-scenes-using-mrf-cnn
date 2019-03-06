@@ -8,9 +8,11 @@ https://www.dropbox.com/s/15glsp57wp7qgj3/net-deployed.mat?dl=0
 
 3) Save the downloaded net file 'net-deployed.mat' in \data\models
 
-For a demo, simply implement the following two lines in MATLAB command window
+For a demo, simply implement the following line in MATLAB command window
 
 s1=deploysaliency('.\meshes\human.off');
+
+You can also input a scene:
 
 s2=deploysaliency('.\meshes\conferenceroom.off');
 
