@@ -1,4 +1,4 @@
-The souce codes are based on matconvnet.
+The source codes are based on matconvnet.
 
 1) Creat a new directory \data\models
 
